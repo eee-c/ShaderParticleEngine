@@ -1,3 +1,5 @@
+_Copied from [http://squarefeet.github.io/ShaderParticleEngine/](http://squarefeet.github.io/ShaderParticleEngine/) for use in [3D Game Programming for Kids](http://code3d.games)._
+
 # Examples
 
 [Explode all the things!](/ShaderParticleEngine/examples/explosion.html)
