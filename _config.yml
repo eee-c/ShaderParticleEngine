@@ -1,0 +1,8 @@
+title: Shaderparticleengine
+description: A GLSL-based particle engine for THREE.js. Heavily based on Stemkoski's great particle engine (see README)
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
