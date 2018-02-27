@@ -28,10 +28,10 @@ _Copied from [http://squarefeet.github.io/ShaderParticleEngine/](http://squarefe
 
 [Annotated source](/ShaderParticleEngine/docs/source/SPE.html)
 
-[Changelog](https://github.com/squarefeet/ShaderParticleEngine/blob/master/docs/ChangeLog.md)
+[Changelog](https://github.com/eee-c/ShaderParticleEngine/blob/master/docs/ChangeLog.md)
 
-[Migration Log](https://github.com/squarefeet/ShaderParticleEngine/blob/master/docs/MigrationLog.md)
+[Migration Log](https://github.com/eee-c/ShaderParticleEngine/blob/master/docs/MigrationLog.md)
 
 # About
 
-[README](https://github.com/squarefeet/ShaderParticleEngine/blob/master/README.md)
+[README](https://github.com/eee-c/ShaderParticleEngine/blob/master/README.md)
